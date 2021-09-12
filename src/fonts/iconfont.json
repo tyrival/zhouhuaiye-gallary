@@ -1,0 +1,618 @@
+{
+  "id": "1942846",
+  "name": "vision",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "79650",
+      "name": "三角3",
+      "font_class": "play",
+      "unicode": "e600",
+      "unicode_decimal": 58880
+    },
+    {
+      "icon_id": "128876",
+      "name": "download",
+      "font_class": "download",
+      "unicode": "e748",
+      "unicode_decimal": 59208
+    },
+    {
+      "icon_id": "150631",
+      "name": "现实演示",
+      "font_class": "view",
+      "unicode": "e705",
+      "unicode_decimal": 59141
+    },
+    {
+      "icon_id": "162792",
+      "name": "column-3d-chart",
+      "font_class": "3d-chart",
+      "unicode": "e62c",
+      "unicode_decimal": 58924
+    },
+    {
+      "icon_id": "171410",
+      "name": "uparrow",
+      "font_class": "down",
+      "unicode": "e626",
+      "unicode_decimal": 58918
+    },
+    {
+      "icon_id": "217338",
+      "name": "map",
+      "font_class": "map",
+      "unicode": "e62a",
+      "unicode_decimal": 58922
+    },
+    {
+      "icon_id": "300409",
+      "name": "复制",
+      "font_class": "copy",
+      "unicode": "e61b",
+      "unicode_decimal": 58907
+    },
+    {
+      "icon_id": "315204",
+      "name": "分布式数据源DDS",
+      "font_class": "datasource-o",
+      "unicode": "e642",
+      "unicode_decimal": 58946
+    },
+    {
+      "icon_id": "372265",
+      "name": "cc-top",
+      "font_class": "bottom",
+      "unicode": "e6a9",
+      "unicode_decimal": 59049
+    },
+    {
+      "icon_id": "544897",
+      "name": "pause",
+      "font_class": "pause",
+      "unicode": "e8b8",
+      "unicode_decimal": 59576
+    },
+    {
+      "icon_id": "551615",
+      "name": "五角星",
+      "font_class": "star",
+      "unicode": "e627",
+      "unicode_decimal": 58919
+    },
+    {
+      "icon_id": "581024",
+      "name": "plane",
+      "font_class": "plane",
+      "unicode": "e67e",
+      "unicode_decimal": 59006
+    },
+    {
+      "icon_id": "784287",
+      "name": "退出",
+      "font_class": "exit",
+      "unicode": "e638",
+      "unicode_decimal": 58936
+    },
+    {
+      "icon_id": "790442",
+      "name": "user",
+      "font_class": "user",
+      "unicode": "e6af",
+      "unicode_decimal": 59055
+    },
+    {
+      "icon_id": "928980",
+      "name": "bar-chart",
+      "font_class": "bar-chart",
+      "unicode": "e635",
+      "unicode_decimal": 58933
+    },
+    {
+      "icon_id": "996525",
+      "name": "下一个",
+      "font_class": "prev",
+      "unicode": "e67d",
+      "unicode_decimal": 59005
+    },
+    {
+      "icon_id": "1000800",
+      "name": "exit",
+      "font_class": "logout",
+      "unicode": "e60e",
+      "unicode_decimal": 58894
+    },
+    {
+      "icon_id": "1133817",
+      "name": "删除",
+      "font_class": "delete",
+      "unicode": "e658",
+      "unicode_decimal": 58968
+    },
+    {
+      "icon_id": "1183004",
+      "name": "组件",
+      "font_class": "plugin",
+      "unicode": "e648",
+      "unicode_decimal": 58952
+    },
+    {
+      "icon_id": "1210903",
+      "name": "Document",
+      "font_class": "doc",
+      "unicode": "e662",
+      "unicode_decimal": 58978
+    },
+    {
+      "icon_id": "1270489",
+      "name": "user",
+      "font_class": "user12",
+      "unicode": "e63c",
+      "unicode_decimal": 58940
+    },
+    {
+      "icon_id": "1305495",
+      "name": "postgresql-01",
+      "font_class": "postgresql",
+      "unicode": "e645",
+      "unicode_decimal": 58949
+    },
+    {
+      "icon_id": "1363825",
+      "name": "plus",
+      "font_class": "plus",
+      "unicode": "e602",
+      "unicode_decimal": 58882
+    },
+    {
+      "icon_id": "1364596",
+      "name": "API文档",
+      "font_class": "api",
+      "unicode": "e668",
+      "unicode_decimal": 58984
+    },
+    {
+      "icon_id": "1398686",
+      "name": "3,六边形,复杂,three",
+      "font_class": "datasource",
+      "unicode": "e63f",
+      "unicode_decimal": 58943
+    },
+    {
+      "icon_id": "1444925",
+      "name": "minus",
+      "font_class": "minus",
+      "unicode": "e7fa",
+      "unicode_decimal": 59386
+    },
+    {
+      "icon_id": "1494659",
+      "name": "oracle-01",
+      "font_class": "oracle",
+      "unicode": "e606",
+      "unicode_decimal": 58886
+    },
+    {
+      "icon_id": "1494661",
+      "name": "mysql-01",
+      "font_class": "mysql",
+      "unicode": "e607",
+      "unicode_decimal": 58887
+    },
+    {
+      "icon_id": "1622860",
+      "name": "在后面插入新目录项",
+      "font_class": "append",
+      "unicode": "e64e",
+      "unicode_decimal": 58958
+    },
+    {
+      "icon_id": "1769645",
+      "name": "在前面插入新目录项",
+      "font_class": "prepend",
+      "unicode": "e69e",
+      "unicode_decimal": 59038
+    },
+    {
+      "icon_id": "1842109",
+      "name": "layers",
+      "font_class": "layer",
+      "unicode": "e601",
+      "unicode_decimal": 58881
+    },
+    {
+      "icon_id": "1942251",
+      "name": "pie-chart",
+      "font_class": "pie-chart",
+      "unicode": "e7d5",
+      "unicode_decimal": 59349
+    },
+    {
+      "icon_id": "2336710",
+      "name": "graph",
+      "font_class": "graph",
+      "unicode": "e61c",
+      "unicode_decimal": 58908
+    },
+    {
+      "icon_id": "2367328",
+      "name": "辅助图形",
+      "font_class": "shape",
+      "unicode": "e62b",
+      "unicode_decimal": 58923
+    },
+    {
+      "icon_id": "2417126",
+      "name": "山",
+      "font_class": "mount",
+      "unicode": "e784",
+      "unicode_decimal": 59268
+    },
+    {
+      "icon_id": "2694449",
+      "name": "scatterchart",
+      "font_class": "scatter-chart",
+      "unicode": "e637",
+      "unicode_decimal": 58935
+    },
+    {
+      "icon_id": "2818662",
+      "name": "edit",
+      "font_class": "edit",
+      "unicode": "e617",
+      "unicode_decimal": 58903
+    },
+    {
+      "icon_id": "2851840",
+      "name": "说明",
+      "font_class": "help",
+      "unicode": "e610",
+      "unicode_decimal": 58896
+    },
+    {
+      "icon_id": "3020001",
+      "name": "二级-数据库",
+      "font_class": "database",
+      "unicode": "ea9f",
+      "unicode_decimal": 60063
+    },
+    {
+      "icon_id": "3088457",
+      "name": "折线图1",
+      "font_class": "chart",
+      "unicode": "e614",
+      "unicode_decimal": 58900
+    },
+    {
+      "icon_id": "3587145",
+      "name": "系统移植",
+      "font_class": "transplant",
+      "unicode": "e6a3",
+      "unicode_decimal": 59043
+    },
+    {
+      "icon_id": "4039722",
+      "name": "Excel",
+      "font_class": "excel",
+      "unicode": "e66b",
+      "unicode_decimal": 58987
+    },
+    {
+      "icon_id": "4145990",
+      "name": "表格",
+      "font_class": "table",
+      "unicode": "e630",
+      "unicode_decimal": 58928
+    },
+    {
+      "icon_id": "4729798",
+      "name": "upload",
+      "font_class": "upload",
+      "unicode": "e69d",
+      "unicode_decimal": 59037
+    },
+    {
+      "icon_id": "4950995",
+      "name": "省略号",
+      "font_class": "more",
+      "unicode": "e605",
+      "unicode_decimal": 58885
+    },
+    {
+      "icon_id": "4983787",
+      "name": "sankey-chart",
+      "font_class": "sankey-chart",
+      "unicode": "e780",
+      "unicode_decimal": 59264
+    },
+    {
+      "icon_id": "5274005",
+      "name": "tree",
+      "font_class": "tree-chart",
+      "unicode": "e60f",
+      "unicode_decimal": 58895
+    },
+    {
+      "icon_id": "5301671",
+      "name": "gauge",
+      "font_class": "gauge-chart",
+      "unicode": "e62f",
+      "unicode_decimal": 58927
+    },
+    {
+      "icon_id": "5327482",
+      "name": "盾牌",
+      "font_class": "secutiry",
+      "unicode": "e6fe",
+      "unicode_decimal": 59134
+    },
+    {
+      "icon_id": "5364393",
+      "name": "霾",
+      "font_class": "haze",
+      "unicode": "e6d3",
+      "unicode_decimal": 59091
+    },
+    {
+      "icon_id": "5806736",
+      "name": "12 Cube",
+      "font_class": "cube",
+      "unicode": "e892",
+      "unicode_decimal": 59538
+    },
+    {
+      "icon_id": "5978709",
+      "name": "SQL-server",
+      "font_class": "sqlserver",
+      "unicode": "e604",
+      "unicode_decimal": 58884
+    },
+    {
+      "icon_id": "6172724",
+      "name": "save",
+      "font_class": "save",
+      "unicode": "e856",
+      "unicode_decimal": 59478
+    },
+    {
+      "icon_id": "6271024",
+      "name": "保存",
+      "font_class": "confirm",
+      "unicode": "e6bf",
+      "unicode_decimal": 59071
+    },
+    {
+      "icon_id": "6488968",
+      "name": "断开",
+      "font_class": "disconnect",
+      "unicode": "e625",
+      "unicode_decimal": 58917
+    },
+    {
+      "icon_id": "6523157",
+      "name": "uparrow",
+      "font_class": "up",
+      "unicode": "eb96",
+      "unicode_decimal": 60310
+    },
+    {
+      "icon_id": "6523158",
+      "name": "cc-top",
+      "font_class": "top",
+      "unicode": "eb97",
+      "unicode_decimal": 60311
+    },
+    {
+      "icon_id": "6617299",
+      "name": "radar",
+      "font_class": "radar-chart",
+      "unicode": "e6ca",
+      "unicode_decimal": 59082
+    },
+    {
+      "icon_id": "7125190",
+      "name": "水平分布",
+      "font_class": "horizon-dist",
+      "unicode": "e616",
+      "unicode_decimal": 58902
+    },
+    {
+      "icon_id": "7204196",
+      "name": "line-chart",
+      "font_class": "line-chart",
+      "unicode": "e649",
+      "unicode_decimal": 58953
+    },
+    {
+      "icon_id": "7556389",
+      "name": "全屏",
+      "font_class": "full-screen",
+      "unicode": "e7ba",
+      "unicode_decimal": 59322
+    },
+    {
+      "icon_id": "7647470",
+      "name": "redo",
+      "font_class": "redo",
+      "unicode": "e619",
+      "unicode_decimal": 58905
+    },
+    {
+      "icon_id": "7647531",
+      "name": "undo",
+      "font_class": "undo",
+      "unicode": "e61d",
+      "unicode_decimal": 58909
+    },
+    {
+      "icon_id": "7668684",
+      "name": "对齐",
+      "font_class": "align-left",
+      "unicode": "e66c",
+      "unicode_decimal": 58988
+    },
+    {
+      "icon_id": "7789615",
+      "name": "线段",
+      "font_class": "grid-bottom",
+      "unicode": "e603",
+      "unicode_decimal": 58883
+    },
+    {
+      "icon_id": "8159879",
+      "name": "退出全屏",
+      "font_class": "cancel-full-screen",
+      "unicode": "e641",
+      "unicode_decimal": 58945
+    },
+    {
+      "icon_id": "8400673",
+      "name": "对齐",
+      "font_class": "align-vertical",
+      "unicode": "e609",
+      "unicode_decimal": 58889
+    },
+    {
+      "icon_id": "10258912",
+      "name": "cross",
+      "font_class": "cross",
+      "unicode": "e608",
+      "unicode_decimal": 58888
+    },
+    {
+      "icon_id": "12002235",
+      "name": "slideshow-3-line",
+      "font_class": "slide",
+      "unicode": "e62d",
+      "unicode_decimal": 58925
+    },
+    {
+      "icon_id": "13135188",
+      "name": "线段",
+      "font_class": "grid-top",
+      "unicode": "eb98",
+      "unicode_decimal": 60312
+    },
+    {
+      "icon_id": "13135189",
+      "name": "线段",
+      "font_class": "grid-left",
+      "unicode": "eb99",
+      "unicode_decimal": 60313
+    },
+    {
+      "icon_id": "13135192",
+      "name": "线段",
+      "font_class": "grid-right",
+      "unicode": "eb9a",
+      "unicode_decimal": 60314
+    },
+    {
+      "icon_id": "13699320",
+      "name": "comment solid",
+      "font_class": "comment",
+      "unicode": "e9ca",
+      "unicode_decimal": 59850
+    },
+    {
+      "icon_id": "13819384",
+      "name": "下一个",
+      "font_class": "next",
+      "unicode": "eb9b",
+      "unicode_decimal": 60315
+    },
+    {
+      "icon_id": "14470210",
+      "name": "雷阵雨",
+      "font_class": "thundershower",
+      "unicode": "e60b",
+      "unicode_decimal": 58891
+    },
+    {
+      "icon_id": "14470211",
+      "name": "晴",
+      "font_class": "sunny",
+      "unicode": "e60c",
+      "unicode_decimal": 58892
+    },
+    {
+      "icon_id": "14470212",
+      "name": "雨",
+      "font_class": "rainy",
+      "unicode": "e60d",
+      "unicode_decimal": 58893
+    },
+    {
+      "icon_id": "14470213",
+      "name": "多云",
+      "font_class": "cloudy",
+      "unicode": "e611",
+      "unicode_decimal": 58897
+    },
+    {
+      "icon_id": "14470214",
+      "name": "阴",
+      "font_class": "overcast",
+      "unicode": "e612",
+      "unicode_decimal": 58898
+    },
+    {
+      "icon_id": "14470422",
+      "name": "雪",
+      "font_class": "snow",
+      "unicode": "e613",
+      "unicode_decimal": 58899
+    },
+    {
+      "icon_id": "14470582",
+      "name": "雾",
+      "font_class": "fog",
+      "unicode": "e615",
+      "unicode_decimal": 58901
+    },
+    {
+      "icon_id": "14866576",
+      "name": "color_picker",
+      "font_class": "color-picker",
+      "unicode": "e9d3",
+      "unicode_decimal": 59859
+    },
+    {
+      "icon_id": "15414738",
+      "name": "对齐",
+      "font_class": "align-top",
+      "unicode": "eb9c",
+      "unicode_decimal": 60316
+    },
+    {
+      "icon_id": "15414741",
+      "name": "对齐",
+      "font_class": "align-bottom",
+      "unicode": "eb9d",
+      "unicode_decimal": 60317
+    },
+    {
+      "icon_id": "15414742",
+      "name": "对齐",
+      "font_class": "align-right",
+      "unicode": "eb9e",
+      "unicode_decimal": 60318
+    },
+    {
+      "icon_id": "15414743",
+      "name": "对齐",
+      "font_class": "align-horizon",
+      "unicode": "eb9f",
+      "unicode_decimal": 60319
+    },
+    {
+      "icon_id": "15467004",
+      "name": "水平分布",
+      "font_class": "vertical-dist",
+      "unicode": "eba0",
+      "unicode_decimal": 60320
+    }
+  ]
+}
