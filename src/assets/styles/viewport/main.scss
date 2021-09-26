@@ -1,0 +1,53 @@
+@import '../common/theme/index';
+
+#canvas {
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background-color: $global-bg-color-secondary;
+  overflow: hidden;
+  z-index: 0;
+}
+
+.viewport {
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  overflow-x: hidden;
+  overflow-y: auto;
+
+  $banner-height: 320px;
+
+  .banner {
+    width: 100%;
+    height: $banner-height;
+    background-color: $global-bg-color-hover;
+
+  }
+
+  .gallery {
+    display: block;
+    width: 80%;
+    margin-left: 10%;
+    margin-bottom: 100px;
+
+    .album-card {
+      display: block;
+      height: 200px;
+      margin-top: 10px;
+      background-color: white;
+
+
+      .title {
+        height: 100%;
+        background-size: auto 100%;
+        background-repeat: no-repeat;
+        background-position: center;
+      }
+    }
+  }
+}
